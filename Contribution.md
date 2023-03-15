@@ -1,7 +1,7 @@
 # How can I contribute?
 
 - You can fix the typos (if any) in any documentation of this repo.
-- You can check for any **unassigned** [issues](https://github.com/DevMatrix1/community_website-project/issues) and **comment** on that issue that you'd like to get that issue assigned to you. (Remember: Do not work on issues assigned to someone else and do not work on any issue without having it assigned to you.)
+- You can check for any **unassigned** [issues](https://github.com/DevMatrix1/Community-Website/issues) and **comment** on that issue that you'd like to get that issue assigned to you. (Remember: Do not work on issues assigned to someone else and do not work on any issue without having it assigned to you.)
 - Create issue if you see any bug and then once you get approved from the admins, you can assign yourself and start working on it.
 
 # How can you make a **Pull Request** (PR)
@@ -10,7 +10,7 @@
 
 1. **Forking repository**
 
-Fork this repository using the **Fork** option at the top-right corner of this page. This will create your own copy of this repository. You'll be redirected to your forked repository. Copy the link of this repository (which will look like `https://github.com/<your-username>/community_website-project.git`) as you'll need it in the step 2.
+Fork this repository using the **Fork** option at the top-right corner of this page. This will create your own copy of this repository. You'll be redirected to your forked repository. Copy the link of this repository (which will look like `https://github.com/DevMatrix1/Community-Website.git`) as you'll need it in the step 2.
 
 2. **Cloning repository and Installing packages**
 
@@ -35,7 +35,7 @@ npm install
 Add the Dev_Matrix repository as a remote repository, so that you can anytime pull the latest changes from the Dev_matrix repository which is being deployed. This needs to be done only for the first time.
 
 ```
-git remote add upstream https://github.com/DevMatrix1/community_website-project.git
+git remote add upstream https://github.com/DevMatrix1/Community-Website.git
 ```
 
 4. **Getting the latest code from the main branch** (Can be skipped if you've cloned the repo just now)
