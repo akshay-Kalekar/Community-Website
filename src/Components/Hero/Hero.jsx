@@ -3,8 +3,8 @@ import Card from "./Card";
 
 const Hero = () => {
   return (
-    <div>
-      <div>
+    <div className="h-[100vh] w-[100vw]">
+      <div className="flex ">
         {/*Left Side*/}
         <div>
           <div>Let’s Connect with people in tech</div>
